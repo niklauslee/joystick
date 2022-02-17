@@ -1,0 +1,6 @@
+{
+  "name": "joystick",
+  "version": "1.0.0",
+  "description": "Kaluma library for joystick module",
+  "main": "index.js"
+}
